@@ -18,17 +18,11 @@ A clean, minimal mobile app for tracking personal goals. Goal List provides a si
 
 ## Screenshots
 
-- Home / Add New Goal (empty)
-
-  ![Home / Add New Goal](./assets//screenshots/screenshot-1.png)
-
-- Add goal modal / input
-
-  ![Add goal modal / input](./assets/screenshots//screenshot-2.png)
-
-- Goal added / list item
-
-  ![Goal added / list item](./assets/screenshots/screenshot-3.png)
+<div align="center">
+  <img src="./assets/screenshots/screenshot-1.png" alt="Home / Add New Goal (empty)" style="display:inline-block; width:32%; margin-right:1%;" />
+  <img src="./assets/screenshots/screenshot-2.png" alt="Add goal modal / input" style="display:inline-block; width:32%; margin-right:1%;" />
+  <img src="./assets/screenshots/screenshot-3.png" alt="Goal added / list item" style="display:inline-block; width:32%;" />
+</div>
 
 ## Installation
 
